@@ -1,0 +1,14 @@
+C:\Users\Dell 7\Desktop\MyProJects\RealmDigitalMessageService\BusinessLogic\bin\Debug\netcoreapp3.1\BusinessLogic.exe
+C:\Users\Dell 7\Desktop\MyProJects\RealmDigitalMessageService\BusinessLogic\bin\Debug\netcoreapp3.1\BusinessLogic.deps.json
+C:\Users\Dell 7\Desktop\MyProJects\RealmDigitalMessageService\BusinessLogic\bin\Debug\netcoreapp3.1\BusinessLogic.runtimeconfig.json
+C:\Users\Dell 7\Desktop\MyProJects\RealmDigitalMessageService\BusinessLogic\bin\Debug\netcoreapp3.1\BusinessLogic.runtimeconfig.dev.json
+C:\Users\Dell 7\Desktop\MyProJects\RealmDigitalMessageService\BusinessLogic\bin\Debug\netcoreapp3.1\BusinessLogic.dll
+C:\Users\Dell 7\Desktop\MyProJects\RealmDigitalMessageService\BusinessLogic\bin\Debug\netcoreapp3.1\BusinessLogic.pdb
+C:\Users\Dell 7\Desktop\MyProJects\RealmDigitalMessageService\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\Dell 7\Desktop\MyProJects\RealmDigitalMessageService\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell 7\Desktop\MyProJects\RealmDigitalMessageService\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\Dell 7\Desktop\MyProJects\RealmDigitalMessageService\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.AssemblyInfo.cs
+C:\Users\Dell 7\Desktop\MyProJects\RealmDigitalMessageService\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Dell 7\Desktop\MyProJects\RealmDigitalMessageService\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.dll
+C:\Users\Dell 7\Desktop\MyProJects\RealmDigitalMessageService\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.pdb
+C:\Users\Dell 7\Desktop\MyProJects\RealmDigitalMessageService\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.genruntimeconfig.cache

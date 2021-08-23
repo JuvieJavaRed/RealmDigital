@@ -1,0 +1,17 @@
+C:\Users\Dell 7\Desktop\MyProJects\RealmDigitalMessageService\Repository\bin\Debug\netcoreapp3.1\RealmDigital.Repository.exe
+C:\Users\Dell 7\Desktop\MyProJects\RealmDigitalMessageService\Repository\bin\Debug\netcoreapp3.1\RealmDigital.Repository.deps.json
+C:\Users\Dell 7\Desktop\MyProJects\RealmDigitalMessageService\Repository\bin\Debug\netcoreapp3.1\RealmDigital.Repository.runtimeconfig.json
+C:\Users\Dell 7\Desktop\MyProJects\RealmDigitalMessageService\Repository\bin\Debug\netcoreapp3.1\RealmDigital.Repository.runtimeconfig.dev.json
+C:\Users\Dell 7\Desktop\MyProJects\RealmDigitalMessageService\Repository\bin\Debug\netcoreapp3.1\RealmDigital.Repository.dll
+C:\Users\Dell 7\Desktop\MyProJects\RealmDigitalMessageService\Repository\bin\Debug\netcoreapp3.1\RealmDigital.Repository.pdb
+C:\Users\Dell 7\Desktop\MyProJects\RealmDigitalMessageService\Repository\bin\Debug\netcoreapp3.1\RealmDigital.Data.dll
+C:\Users\Dell 7\Desktop\MyProJects\RealmDigitalMessageService\Repository\bin\Debug\netcoreapp3.1\RealmDigital.Data.pdb
+C:\Users\Dell 7\Desktop\MyProJects\RealmDigitalMessageService\Repository\obj\Debug\netcoreapp3.1\RealmDigital.Repository.csproj.AssemblyReference.cache
+C:\Users\Dell 7\Desktop\MyProJects\RealmDigitalMessageService\Repository\obj\Debug\netcoreapp3.1\RealmDigital.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell 7\Desktop\MyProJects\RealmDigitalMessageService\Repository\obj\Debug\netcoreapp3.1\RealmDigital.Repository.AssemblyInfoInputs.cache
+C:\Users\Dell 7\Desktop\MyProJects\RealmDigitalMessageService\Repository\obj\Debug\netcoreapp3.1\RealmDigital.Repository.AssemblyInfo.cs
+C:\Users\Dell 7\Desktop\MyProJects\RealmDigitalMessageService\Repository\obj\Debug\netcoreapp3.1\RealmDigital.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Dell 7\Desktop\MyProJects\RealmDigitalMessageService\Repository\obj\Debug\netcoreapp3.1\RealmDigital.Repository.csproj.CopyComplete
+C:\Users\Dell 7\Desktop\MyProJects\RealmDigitalMessageService\Repository\obj\Debug\netcoreapp3.1\RealmDigital.Repository.dll
+C:\Users\Dell 7\Desktop\MyProJects\RealmDigitalMessageService\Repository\obj\Debug\netcoreapp3.1\RealmDigital.Repository.pdb
+C:\Users\Dell 7\Desktop\MyProJects\RealmDigitalMessageService\Repository\obj\Debug\netcoreapp3.1\RealmDigital.Repository.genruntimeconfig.cache

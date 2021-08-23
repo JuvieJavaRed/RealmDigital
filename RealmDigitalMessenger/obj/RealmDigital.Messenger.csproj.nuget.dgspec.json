@@ -1,0 +1,181 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Dell 7\\Desktop\\MyProJects\\RealmDigitalMessageService\\RealmDigitalMessenger\\RealmDigital.Messenger.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Dell 7\\Desktop\\MyProJects\\RealmDigitalMessageService\\Data\\RealmDigital.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Dell 7\\Desktop\\MyProJects\\RealmDigitalMessageService\\Data\\RealmDigital.Data.csproj",
+        "projectName": "RealmDigital.Data",
+        "projectPath": "C:\\Users\\Dell 7\\Desktop\\MyProJects\\RealmDigitalMessageService\\Data\\RealmDigital.Data.csproj",
+        "packagesPath": "C:\\Users\\Dell 7\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dell 7\\Desktop\\MyProJects\\RealmDigitalMessageService\\Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dell 7\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Dell 7\\Desktop\\MyProJects\\RealmDigitalMessageService\\RealmDigitalMessenger\\RealmDigital.Messenger.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Dell 7\\Desktop\\MyProJects\\RealmDigitalMessageService\\RealmDigitalMessenger\\RealmDigital.Messenger.csproj",
+        "projectName": "RealmDigital.Messenger",
+        "projectPath": "C:\\Users\\Dell 7\\Desktop\\MyProJects\\RealmDigitalMessageService\\RealmDigitalMessenger\\RealmDigital.Messenger.csproj",
+        "packagesPath": "C:\\Users\\Dell 7\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dell 7\\Desktop\\MyProJects\\RealmDigitalMessageService\\RealmDigitalMessenger\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dell 7\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Dell 7\\Desktop\\MyProJects\\RealmDigitalMessageService\\Data\\RealmDigital.Data.csproj": {
+                "projectPath": "C:\\Users\\Dell 7\\Desktop\\MyProJects\\RealmDigitalMessageService\\Data\\RealmDigital.Data.csproj"
+              },
+              "C:\\Users\\Dell 7\\Desktop\\MyProJects\\RealmDigitalMessageService\\Repository\\RealmDigital.Repository.csproj": {
+                "projectPath": "C:\\Users\\Dell 7\\Desktop\\MyProJects\\RealmDigitalMessageService\\Repository\\RealmDigital.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Dell 7\\Desktop\\MyProJects\\RealmDigitalMessageService\\Repository\\RealmDigital.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Dell 7\\Desktop\\MyProJects\\RealmDigitalMessageService\\Repository\\RealmDigital.Repository.csproj",
+        "projectName": "RealmDigital.Repository",
+        "projectPath": "C:\\Users\\Dell 7\\Desktop\\MyProJects\\RealmDigitalMessageService\\Repository\\RealmDigital.Repository.csproj",
+        "packagesPath": "C:\\Users\\Dell 7\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dell 7\\Desktop\\MyProJects\\RealmDigitalMessageService\\Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dell 7\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Dell 7\\Desktop\\MyProJects\\RealmDigitalMessageService\\Data\\RealmDigital.Data.csproj": {
+                "projectPath": "C:\\Users\\Dell 7\\Desktop\\MyProJects\\RealmDigitalMessageService\\Data\\RealmDigital.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
