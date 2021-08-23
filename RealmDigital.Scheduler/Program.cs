@@ -7,6 +7,7 @@ namespace RealmDigital.Scheduler
         static void Main(string[] args)
         {
             //configure the scheduler here...........
+            Console.WriteLine("Configure Scheduler From Here");
         }
     }
 }

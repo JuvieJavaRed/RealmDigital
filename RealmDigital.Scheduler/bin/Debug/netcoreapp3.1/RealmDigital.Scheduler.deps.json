@@ -1,0 +1,63 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "RealmDigital.Scheduler/1.0.0": {
+        "dependencies": {
+          "RealmDigital.Messenger": "1.0.0"
+        },
+        "runtime": {
+          "RealmDigital.Scheduler.dll": {}
+        }
+      },
+      "RealmDigital.Data/1.0.0": {
+        "runtime": {
+          "RealmDigital.Data.dll": {}
+        }
+      },
+      "RealmDigital.Messenger/1.0.0": {
+        "dependencies": {
+          "RealmDigital.Data": "1.0.0",
+          "RealmDigital.Repository": "1.0.0"
+        },
+        "runtime": {
+          "RealmDigital.Messenger.dll": {}
+        }
+      },
+      "RealmDigital.Repository/1.0.0": {
+        "dependencies": {
+          "RealmDigital.Data": "1.0.0"
+        },
+        "runtime": {
+          "RealmDigital.Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RealmDigital.Scheduler/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RealmDigital.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RealmDigital.Messenger/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RealmDigital.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
